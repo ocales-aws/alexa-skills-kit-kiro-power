@@ -366,6 +366,13 @@ Le serveur MCP `alexa-ask` expose les commandes ASK CLI comme outils :
 
 **Prérequis supplémentaire :** L'ASK CLI doit être installé et configuré (`npm install -g ask-cli && ask configure`).
 
+## License and Support
+
+This power is licensed under the **MIT License**.
+
+- [Privacy Policy](https://github.com/ocales-aws/alexa-skills-kit-kiro-power/blob/main/README.md)
+- [Support & Issues](https://github.com/ocales-aws/alexa-skills-kit-kiro-power/issues)
+
 ---
 
 **CLI Tool:** `ask-cli`
