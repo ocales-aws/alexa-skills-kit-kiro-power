@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "alexa-ask": {
+      "command": "python3",
+      "args": ["PLACEHOLDER_SERVER_PATH/server.py"],
+      "env": {},
+      "disabled": false,
+      "autoApprove": []
+    }
+  }
+}
